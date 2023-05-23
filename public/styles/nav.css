@@ -1,0 +1,31 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  height: 120px;
+  width: 100vw;
+  padding: 1.5em;
+  background-color: #4056A1;
+  color: #FFFFFF;
+}
+
+nav span {
+  display: flex;
+  font-family: 'Bungee', cursive;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-area {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-icon {
+  margin-top: 4px;
+  color: red;
+}
