@@ -44,3 +44,19 @@ button:hover {
 .over-char-limit {
   color: red;
 }
+
+.error-text-empty, .error-text-long {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid red;
+  color: red;
+  padding: 10px;
+  margin-bottom: 15px;
+  margin-top: none;
+}
+
+.fa-triangle-exclamation {
+  margin-right: 10px;
+  margin-left: 10px;
+}
