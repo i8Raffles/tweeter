@@ -1,0 +1,12 @@
+.scroll-up {
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  background-color: red;
+  border-color: transparent;
+  position: fixed;
+  bottom: 4vh;
+  right: 2vw;
+  outline: none;
+  display: none;
+}

@@ -6,7 +6,8 @@ nav {
   height: 120px;
   width: 100vw;
   padding: 1.5em;
-  background-color: #4056A1;
+  background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
+  background-color: #4d0729;
   color: #FFFFFF;
 }
 
@@ -28,5 +29,11 @@ nav span {
 .nav-icon {
   margin-top: 4px;
   color: red;
+}
+
+#new-tweet-button {
+  padding: 0;
+  border: none;
+  background: none;
 }
 
