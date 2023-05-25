@@ -52,7 +52,7 @@
     </div>
   </nav>
   <header class="header-top">
-    <div>
+    <div class="user-image">
       <img src="/images/profile-hex.png">
     </div>
     <br>
@@ -65,6 +65,7 @@
   <main class="container">
     <section class="new-tweet">
       <h2>Compose Tweet</h2>
+      <!-- Error handling for empty tweet or if crosses character limit -->
       <span class="error-text-empty">
         <i class="fa-solid fa-triangle-exclamation" style="color: #ff0000;"></i>
         Please input at least one character in order to tweet.
@@ -85,7 +86,9 @@
       </form>
     </section>
     <section id="tweets-container">
+      <!-- Tweets are generated dynamically here -->
     </section>
+    <!-- Button for scrolling up -->
     <button class="scroll-up"><i class="fas fa-angle-double-up" style="color: white;"></i></button>
   </main>
 </body>

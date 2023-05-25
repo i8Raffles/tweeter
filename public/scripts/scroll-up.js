@@ -1,3 +1,4 @@
+//implementation of the scroll up button which has class of 'scroll-up'
 $(document).ready(() => {
 
   //scroll detection on the window
@@ -7,7 +8,7 @@ $(document).ready(() => {
     if ($(window).scrollTop() === 0) {
       $('.scroll-up').fadeOut('fast');
 
-      //if not at the top then show the scroll up button
+    //if not at the top then show the scroll up button
     } else {
       $('.scroll-up').fadeIn('fast');
     }
