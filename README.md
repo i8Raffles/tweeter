@@ -46,5 +46,5 @@ If you're browsing on a laptop/desktop, the text field and list of tweets will a
 
 ### Tweet Validation
 
--If you try to post an empty tweet, an error will appear letting you know to add at least one letter before tweeting.
--If you're about to write a thesis or a gigantic essay, there's a character counter on the bottom right that will turn red if your tweet goes over the limit. Trying to tweet something that goes over the limit will prompt you with an error stating that your tweet is too long.
+- If you try to post an empty tweet, an error will appear letting you know to add at least one letter before tweeting.
+- If you're about to write a thesis or a gigantic essay, there's a character counter on the bottom right that will turn red if your tweet goes over the limit. Trying to tweet something that goes over the limit will prompt you with an error stating that your tweet is too long.
