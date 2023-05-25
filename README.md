@@ -5,10 +5,10 @@ A single-page application that allows you to tweet whatever you want(as long as 
 
 ## Final Product
 
-!["Screenshot of Desktop view"](https://github.com/i8Raffles/tinyapp/blob/master/docs/urls_page.PNG?raw=true)
-!["Screenshot of tablet view"](https://github.com/i8Raffles/tinyapp/blob/master/docs/new_url_page.PNG?raw=true)
-!["Screenshot of text field hidden"](https://github.com/i8Raffles/tinyapp/blob/master/docs/login_page.PNG?raw=true)
-!["Screenshot of mobile view"](https://github.com/i8Raffles/tinyapp/blob/master/docs/edit_page.PNG?raw=true)
+!["Screenshot of Desktop view"](https://github.com/i8Raffles/tweeter/blob/master/docs/Desktop-page.PNG?raw=true)
+!["Screenshot of tablet view"](https://github.com/i8Raffles/tweeter/blob/master/docs/Tablet-view.PNG?raw=true)
+!["Screenshot of text field hidden"](https://github.com/i8Raffles/tweeter/blob/master/docs/text-field-hidden.PNG?raw=true)
+!["Screenshot of mobile view"](https://github.com/i8Raffles/tweeter/blob/master/docs/mobile-view.PNG?raw=true)
 
 ## Dependencies
 
